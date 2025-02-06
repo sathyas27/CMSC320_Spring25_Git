@@ -1,4 +1,7 @@
-Git is useful for version control and making sure your work is located in a safeplace. If you might lose your work locally, Git saves the last working copy pushed onto the repository, allowing for easy backup.
+Q1.) Git is useful for version control and making sure your work is located in a safeplace. If you might lose your work locally, Git saves the last working copy pushed onto the repository, allowing for easy backup.
 
-Data Science can be applied to many different fields, for example one of them being machine learning and prediction models. Understanding data - how it is formatted and how to work with an accumulation of a lot of data - is useful in fields like machine learning as you are able to give your program/machine data to learn from and influence its next acts.
+Q2.) Data Science can be applied to many different fields, for example one of them being machine learning and prediction models. Understanding data - how it is formatted and how to work with an accumulation of a lot of data - is useful in fields like machine learning as you are able to give your program/machine data to learn from and influence its next acts.
 
+Q3.) Merging preserves the history of the files to merge, however rebasing overwrites the commit history.
+
+Q4.) This semester I am looking forward to learning about Data Science and Machine Learning and understanding how to apply the lessons learned from class into real-world situations.
