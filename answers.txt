@@ -1,0 +1,1 @@
+Git is useful for version control and making sure your work is located in a safeplace. If you might lose your work locally, Git saves the last working copy pushed onto the repository, allowing for easy backup.
