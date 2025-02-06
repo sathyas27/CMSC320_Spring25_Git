@@ -1,0 +1,1 @@
+Data Science can be applied to many different fields, for example one of them being machine learning and prediction models. Understanding data - how it is formatted and how to work with an accumulation of a lot of data - is useful in fields like machine learning as you are able to give your program/machine data to learn from and influence its next acts.
